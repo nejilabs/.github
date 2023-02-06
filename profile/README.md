@@ -1,8 +1,8 @@
-<img src="https://media.tenor.com/PITeeuGYXOUAAAAM/peter-griffin-family-guy.gif" width="100%" />
+<a href="https://github.com/orgs/nejilabs/projects/8"><img src="https://media.tenor.com/PITeeuGYXOUAAAAM/peter-griffin-family-guy.gif" width="100%" /></a>
 
 <pre align="center">
-█▄░█ █▀▀ ░░█ █ █░░ ▄▀█ █▄▄ █▀
-█░▀█ ██▄ █▄█ █ █▄▄ █▀█ █▄█ ▄█
+░█▄░█ █▀▀ ░░█ █ █░░ ▄▀█ █▄▄ █▀░
+░█░▀█ ██▄ █▄█ █ █▄▄ █▀█ █▄█ ▄█░
 </pre>
 
 <table width="100%" align="center">
