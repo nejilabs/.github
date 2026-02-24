@@ -1,9 +1,15 @@
 <a href=""><img src="https://media.tenor.com/PITeeuGYXOUAAAAM/peter-griffin-family-guy.gif" width="100%" /></a>
 
+<table width="100%" align="center">
+  <tr>
+    <td>
 <pre align="center">
 █▄░█ █▀▀ ░░█ █ █░░ ▄▀█ █▄▄ █▀
 █░▀█ ██▄ █▄█ █ █▄▄ █▀█ █▄█ ▄█
 </pre>
+    </td>
+  </tr>
+</table>
 
 <table width="100%" align="center">
 <tr>
@@ -15,9 +21,6 @@
 ░▐▓█▄▄▄▄▄▄▄▄▄█▓▌░█████░
 ░░░░░▄▄███▄▄░░░░░█████░
 </pre>
-<a href=""><pre align="center">
-▛▟ █ ▟▛ ▜▛ 
-</pre></a>
 </td>
 <td>
 <pre align="center">
@@ -27,9 +30,6 @@
 ▒▄▄▒▒█░░░░░░░░░░░█▒▒▄▄▒
 █▄▄█▒█░░▀░░┬░░▀░░█▒█▄▄█
 </pre>
-<a href=""><pre align="center">
-▛▟ █ ▞▚ ◗ 
-</pre></a>
 </td>
 <td>
 <pre align="center">
@@ -39,9 +39,6 @@
 ░║░║░║░║░║░║░║░║░║░║░║░
 ░╚═╩═╩═╩═╩═╩═╩═╩═╩═╩═╝░
 </pre>
-<a href=""><pre align="center">
-▛▟ █ ▟▛ ▛▚▞▜ 
-</pre></a>
 </td>
 </tr>
 <tr>
@@ -53,9 +50,6 @@
 ▐█▀▀▌▒▒▒▄▀▌▒▌▒█▒▌▒▒▌▒▌▒
 ▌▀▄▒▐▒▒▀▄▒▐▄▒▐▄▐▄▒▐▄▒▐▄
 </pre>
-<a href=""><pre align="center">
-▛▟ █ ▙▄ ▛▚▞▜ 
-</pre></a>
 </td>
 <td>
 <pre align="center">
@@ -65,9 +59,6 @@
 ░▒▓▒▓▒█╝░░░░░░╚█▒▓▒▓▒░░
 ░╩╩╩╩╩╩▀▄▄▄▄▄▄▀╩╩╩╩╩╩░░
 </pre>
-<a href=""><pre align="center">
-▛▟ ▛▚ ▙▄ ▞▚ 
-</pre></a>
 </td>
 <td>
 <pre align="center">
@@ -77,9 +68,6 @@
 ▒▒█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█▒▒
 ▒▒█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒
 </pre>
-<a href=""><pre align="center">
-▟▛ ▛▚▞▜ █☰ ▛▚▞▜ 
-</pre></a>
 </td>
 </tr>
 </table>
